@@ -68,6 +68,11 @@ flutter:
     - assets/images/step1Right.png
     - assets/images/step2Left.png
     - assets/images/step2Right.png
+    - assets/images/step2Right.png
+    - assets/images/step2Right.png
+    - assets/images/fridge_with_fish.png
+    - assets/images/fridge_empty.png
+    - assets/images/CatSleep.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
